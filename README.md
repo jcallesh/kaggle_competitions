@@ -36,4 +36,5 @@ I'm always excited to engage with fellow data enthusiasts, collaborate on projec
 
 
 ## Disclaimer:
-    The code and methodologies presented in this repository are personal attempts and might not always represent the optimal solutions. I encourage code review and constructive feedback to improve my skills further.
+
+>The code and methodologies presented in this repository are personal attempts and might not always represent the optimal solutions. I encourage code review and constructive feedback to improve my skills further.
